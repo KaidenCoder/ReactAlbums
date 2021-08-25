@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactAlbums/static/css/main.e8801364.chunk.css",
+    "main.js": "/ReactAlbums/static/js/main.64d8b2a1.chunk.js",
+    "main.js.map": "/ReactAlbums/static/js/main.64d8b2a1.chunk.js.map",
+    "runtime-main.js": "/ReactAlbums/static/js/runtime-main.a5a3828d.js",
+    "runtime-main.js.map": "/ReactAlbums/static/js/runtime-main.a5a3828d.js.map",
+    "static/js/2.b08b3973.chunk.js": "/ReactAlbums/static/js/2.b08b3973.chunk.js",
+    "static/js/2.b08b3973.chunk.js.map": "/ReactAlbums/static/js/2.b08b3973.chunk.js.map",
+    "static/js/3.e9d11b4b.chunk.js": "/ReactAlbums/static/js/3.e9d11b4b.chunk.js",
+    "static/js/3.e9d11b4b.chunk.js.map": "/ReactAlbums/static/js/3.e9d11b4b.chunk.js.map",
+    "index.html": "/ReactAlbums/index.html",
+    "static/css/main.e8801364.chunk.css.map": "/ReactAlbums/static/css/main.e8801364.chunk.css.map",
+    "static/js/2.b08b3973.chunk.js.LICENSE.txt": "/ReactAlbums/static/js/2.b08b3973.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a3828d.js",
+    "static/js/2.b08b3973.chunk.js",
+    "static/css/main.e8801364.chunk.css",
+    "static/js/main.64d8b2a1.chunk.js"
+  ]
+}
