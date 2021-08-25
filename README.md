@@ -59,7 +59,7 @@ You will also see any lint errors in the console.
 
 ## My process
 
-First, I had two to parse the API using the fetch function. And then, the data are presented visually using JSX and npm libraries on the front end.
+First, I used the Fetch API method to display the data on the front end. Then I used Bootstrap and Vanilla CSS to style the data.
 
 ### Built with
 
