@@ -23,8 +23,8 @@ const PostAlbums = () => {
     // DISPLAY THE ALBUM USING THE POST METHOD
     return (
         <>
-            <h5 className="pb-2" style={{ textDecoration: "underline" }}>POST METHOD</h5>
-            <div className="card" style={{ margin: "auto", width: '18rem', padding: '2em' }}>
+            <h5 className="pb-2 title-method">POST METHOD</h5>
+            <div className="card card-design">
                 <p>ID: {postvalue.id}</p>
                 <p>TITLE: {postvalue.title}</p>
             </div>

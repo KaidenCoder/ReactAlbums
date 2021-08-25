@@ -11,7 +11,7 @@ const GetAlbums = () => {
     // DISPLAY ALL THE ALBUMS USING GET METHOD
     return (
         <div className="col-sm row cards">
-            <h5 className="pb-2" style={{ textDecoration: "underline" }}>GET METHOD</h5>
+            <h5 className="pb-2 title-method">GET METHOD</h5>
             {value.map((i, d) => (
                 <div className="card m-3" key={d} style={{ width: "18rem" }}>
                     <p>ID: {i.id}</p>
