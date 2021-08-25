@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.navlink {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+  padding: 1em 0.5em;
+}
+
+.cards {
+  justify-content: center;
+}
